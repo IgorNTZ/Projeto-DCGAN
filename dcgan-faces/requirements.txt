@@ -1,9 +1,0 @@
-# Dependências principais do projeto
-# Ambiente de desenvolvimento: Kaggle Notebooks (GPU T4/P100)
-# Obs: Kaggle já vem com PyTorch pré-instalado;
-# versões fixadas aqui para reprodutibilidade local/CI.
-
-torch==2.5.1
-torchvision==0.20.1
-numpy==2.0.2
-matplotlib==3.10.0
